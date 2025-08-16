@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+torch
+transformers
+seqeval
+numpy
+accelerate>=0.26.0
+onnx
+onnxruntime 
+motor 
+python-jose[cryptography] 
+passlib[bcrypt]
+python-dotenv
+python-multipart
+pydantic[email] 
